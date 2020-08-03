@@ -1,6 +1,8 @@
 ## Hello! This is zhenghai(禾几海)
 
 ### About me
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 📚 A student of cs in whpu
 
 📒 Programming enthusiast
@@ -39,7 +41,7 @@ Useing🔎 : Java, springboot, angular
 Loving⚽ : daze😶 & music🎧 & code💻
 ...
 
-#### Now I am running a blog project
+### Now I am running a blog project
 
 Here is a link of my [blog](https://www.celess.cn)
 
