@@ -1,19 +1,25 @@
-## 你好呀，欢迎来到我的GitHub主页
+## Hello! This is zhenghai(禾几海)
 
-### 关于我
+### About me
+📚 A student of cs in whpu
 
-某大学在校生，爱好java，前端技术。喜欢写代码，也写过很多垃圾代码。
+📒 Programming enthusiast
 
-在学🎨 : Java ⚡ | React 🔥 | nodejs 🎈 ...
+🏹 Also a programming rookie
 
-常用🔎 : Java, springboot, angular
 
-爱好⚽ : 发呆😶 & 听歌 🎧
+### Languages and Tools
+
+Learning🎨 : Java ⚡ | React 🔥 | nodejs 🎈 ...
+
+Useing🔎 : Java, springboot, angular
+
+Loving⚽ : daze😶 & music🎧 & code💻
 ...
 
-#### 个人博客
+#### Now I am running a blog project
 
-[小海博客](https://www.celess.cn)
+Here is a link of my [blog](https://www.celess.cn)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=xiaohai2271&show_icons=true)
 
