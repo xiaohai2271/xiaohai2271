@@ -3,7 +3,7 @@
 ### About me
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-📚 A student of cs in whpu
+📚 A computer science student of WHPU
 
 📒 Programming enthusiast
 
