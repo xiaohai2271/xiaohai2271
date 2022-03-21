@@ -12,7 +12,7 @@
 
 Learning🎨 : Java ⚡ | React 🔥 | nodejs 🎈 ...
 
-Useing🔎 : Java, springboot, angular...
+Useing🔎 : Java, SpringBoot, Angular, Vue3, Node.js...
 
 Loving⚽ : daze😶 & music🎧 & code💻
 
@@ -24,7 +24,9 @@ Loving⚽ : daze😶 & music🎧 & code💻
 
 [Blog Part Ⅱ](https://github.com/xiaohai2271/blog-frontEnd) - An Angular application that can display my blog posts and display everything I want.
 
+<!-- 
 [House](https://github.com/xiaohai2271/House) - An application under development.
+ -->
 
 <!--
 ### Lastest blog posts
