@@ -12,13 +12,15 @@ English | [中文](README.md)
 
 ### 👋 About me
 
-<img align="right" src="./img/1628402933578.gif" width="230">
-
 - 🔍 Backend architecture & production stability
 - 🧩 Turning AI-assisted coding into reusable engineering workflows with MCP tools & Skills
 - 📊 Building tools to measure AI coding productivity — turning "feels faster" into data
 - ✍️ Occasionally writing on my [blog](https://blog.celess.cn)
 - 😶 daze & 🎧 music & 💻 code
+
+<p align="center">
+  <img src="./img/1628402933578.gif" width="230">
+</p>
 
 ### 🛠 Tech Stack
 
