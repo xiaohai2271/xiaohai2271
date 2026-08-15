@@ -10,26 +10,15 @@ English | [中文](README.md)
 
 ---
 
-<table>
-  <tr>
-    <td width="72%" valign="top">
-
 ### 👋 About me
+
+<img align="right" src="./img/1628402933578.gif" width="200">
 
 - 🔍 Backend architecture & production stability
 - 🧩 Turning AI-assisted coding into reusable engineering workflows with MCP tools & Skills
 - 📊 Building tools to measure AI coding productivity — turning "feels faster" into data
 - ✍️ Occasionally writing on my [blog](https://blog.celess.cn)
 - 😶 daze & 🎧 music & 💻 code
-
-    </td>
-    <td width="28%" align="center" valign="middle">
-
-<img src="./img/1628402933578.gif" width="200">
-
-    </td>
-  </tr>
-</table>
 
 ### 🛠 Tech Stack
 
