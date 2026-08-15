@@ -1,40 +1,44 @@
-<h1 align="center">Hi 👋, This is 禾几海 :)</h1>
+<div align="center">
 
-<h3 align="center"> A programmer living in Hangzhou 👨‍💻 </h3>
+# Hi, I'm 禾几海 (Zheng Hai) 👋
 
-<p align="center">
-<img width="53%" src="https://github-readme-stats.vercel.app/api?username=xiaohai2271&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
-<img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaohai2271&hide_border=true">
-</p>
+**Java 后端工程师 · 4 年经验 · 视频领域政府数据中台 · AI 工程化实践者**
 
-### About me
-<img align='right' src="./img/1628402933578.gif" width="230">
+</div>
 
-Learning🎨 : Java ⚡ | React 🔥 | nodejs 🎈 ...
+---
 
-Useing🔎 : Java, SpringBoot, Angular, Vue3, Node.js...
+### 🛠 技术栈
 
-Loving⚽ : daze😶 & music🎧 & code💻
+**后端**：Java / Spring Boot / Spring Cloud / MySQL / Redis / RabbitMQ / Nacos / XXL-JOB
+**治理**：JVM 调优 · Arthas / MAT 线上诊断 · 慢 SQL 优化 · 高并发性能治理
+**信创**：达梦 / 麒麟 / TongWeb 国产化适配与私有化交付
+**AI 工程化**：MCP 工具开发 · Skills 设计 · Prompt Engineering · AI 编程效能度量
+**其他**：Rust / TypeScript / Vue · Docker · CI/CD
 
+### 🔥 代表作
 
+| 项目 | 说明 |
+|------|------|
+| 📅 [SmartRiverCalendar](https://github.com/xiaohai2271/SmartRiverCalendar) | 跨平台智能桌面日历应用（Tauri 2 + Vue 3 + TS + Rust），支持 EWS/CalDAV 日历同步、农历节假日、智能提醒。**全程 AI 辅助开发流程交付**（MCP + Skills + 多 Agent 协作） |
 
-### Open source
+### 🤖 我在做什么
 
-[Blog Part Ⅰ](https://github.com/xiaohai2271/blog-backEnd) - A Spring Boot application that can help me manage my blog data.
+- 🔍 在视频领域政府数据中台做架构设计与性能治理，支撑全国 100+ 客户现场
+- 🧩 独立开发 MCP 工具与 50+ Skill，推动团队向 AI 辅助编码模式转型
+- 📊 构建 AI 编程效能度量工具，让“AI 提效”从感觉变成数据
+- ✍️ 偶尔在[博客](https://blog.celess.cn)写点技术笔记
 
-[Blog Part Ⅱ](https://github.com/xiaohai2271/blog-frontEnd) - An Angular application that can display my blog posts and display everything I want.
+### 📫 找到我
 
-<!-- 
-[House](https://github.com/xiaohai2271/House) - An application under development.
- -->
-### Closed source
+[![Blog](https://img.shields.io/badge/Blog-blog.celess.cn-1a73e8?style=flat-square)](https://blog.celess.cn)
+[![Email](https://img.shields.io/badge/Email-a@celess.cn-ea4335?style=flat-square)](mailto:a@celess.cn)
+[![GitHub](https://img.shields.io/badge/GitHub-xiaohai2271-24292e?style=flat-square)](https://github.com/xiaohai2271)
 
-📁 Cloud Database
+---
 
-A database platform that can be easily accessed in small program、 web applications or even c programs. But it can only be used in javascript projects right now, you can see the [doc](https://xiaohai2271.github.io/hmc-doc) to see how to use it, and use [` npm install hmc-js-sdk `](https://github.com/xiaohai2271/hmc-sdk-js) to try it in your own project.
+<div align="center">
 
-##### Related project
-- [Hmc-doc](https://xiaohai2271.github.io/hmc-doc) the document of the sdk, It introduces how to allow our application to quickly access the cloud service database access
+![Profile views](https://komarev.com/ghpvc/?username=xiaohai2271&style=flat-square&color=1a73e8)
 
-- [hmc-js-sdk](https://github.com/xiaohai2271/hmc-sdk-js) the sdk of the platform, It provides the ability to access the cloud database
-
+</div>
