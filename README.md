@@ -10,6 +10,10 @@
 
 ---
 
+<table>
+  <tr>
+    <td width="72%" valign="top">
+
 ### 👋 关于我
 
 - 🔍 关注后端架构设计与线上稳定性治理
@@ -18,9 +22,14 @@
 - ✍️ 偶尔在[博客](https://blog.celess.cn)写点技术笔记
 - 😶 daze & 🎧 music & 💻 code
 
-<p align="center">
-  <img src="./img/1628402933578.gif" width="230">
-</p>
+    </td>
+    <td width="28%" align="center" valign="middle">
+
+<img src="./img/1628402933578.gif" width="200">
+
+    </td>
+  </tr>
+</table>
 
 ### 🛠 技术栈
 
