@@ -10,26 +10,15 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="72%" valign="top">
-
 ### 👋 关于我
+
+<img align="right" src="./img/1628402933578.gif" width="200">
 
 - 🔍 关注后端架构设计与线上稳定性治理
 - 🧩 用 MCP 工具和 Skills 把 AI 辅助编码做成团队可复用的工程流程
 - 📊 做工具度量 AI 编程效能，让"提效"从感觉变成数据
 - ✍️ 偶尔在[博客](https://blog.celess.cn)写点技术笔记
 - 😶 daze & 🎧 music & 💻 code
-
-    </td>
-    <td width="28%" align="center" valign="middle">
-
-<img src="./img/1628402933578.gif" width="200">
-
-    </td>
-  </tr>
-</table>
 
 ### 🛠 技术栈
 
