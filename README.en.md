@@ -4,7 +4,7 @@
 
 **Java Backend Engineer · A programmer who works full-time for AI**
 
-`English` | `[中文](README.md)`
+English | [中文](README.md)
 
 </div>
 
