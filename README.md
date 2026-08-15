@@ -4,7 +4,7 @@
 
 **Java 后端工程师 · 全职给 AI 打工的程序员**
 
-`[English](README.en.md)` | `中文`
+[English](README.en.md) | 中文
 
 </div>
 
