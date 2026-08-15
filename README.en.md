@@ -10,6 +10,10 @@ English | [中文](README.md)
 
 ---
 
+<table>
+  <tr>
+    <td width="72%" valign="top">
+
 ### 👋 About me
 
 - 🔍 Backend architecture & production stability
@@ -18,9 +22,14 @@ English | [中文](README.md)
 - ✍️ Occasionally writing on my [blog](https://blog.celess.cn)
 - 😶 daze & 🎧 music & 💻 code
 
-<p align="center">
-  <img src="./img/1628402933578.gif" width="230">
-</p>
+    </td>
+    <td width="28%" align="center" valign="middle">
+
+<img src="./img/1628402933578.gif" width="200">
+
+    </td>
+  </tr>
+</table>
 
 ### 🛠 Tech Stack
 
